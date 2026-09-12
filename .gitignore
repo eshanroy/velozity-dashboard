@@ -1,0 +1,34 @@
+# Dependencies
+**/node_modules/
+
+# Environment variables
+**/.env
+
+# Build output
+**/dist/
+
+# Logs
+**/*.log
+
+# Local test files
+**/developer-login.json
+**/manager-login.json
+**/admin-login.json
+**/refresh-login.json
+**/refresh-cookies.txt
+**/cookies.txt
+**/task.json
+**/status.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local AI/editor configuration
+**/.agents/
+**/.claude/
+**/.windsurf/
+
+# Generated TypeScript files
+**/*.d.ts
+**/*.d.ts.map
